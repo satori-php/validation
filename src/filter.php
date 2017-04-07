@@ -8,7 +8,7 @@
 
 declare(strict_types=1);
 
-namespace Common\Validation;
+namespace Satori\Validation;
 
 /**
  * Filters a string.
